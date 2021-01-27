@@ -1,2 +1,2 @@
 #TiraClimaApp
-Thids is a climatic chamber control app 
+This is a climatic chamber control app 
